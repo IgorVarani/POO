@@ -1,0 +1,14 @@
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Dia 28.10 (Vários)\5. Sistema de Cursos\bin\Debug\net9.0\5. Sistema de Cursos.exe
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Dia 28.10 (Vários)\5. Sistema de Cursos\bin\Debug\net9.0\5. Sistema de Cursos.deps.json
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Dia 28.10 (Vários)\5. Sistema de Cursos\bin\Debug\net9.0\5. Sistema de Cursos.runtimeconfig.json
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Dia 28.10 (Vários)\5. Sistema de Cursos\bin\Debug\net9.0\5. Sistema de Cursos.dll
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Dia 28.10 (Vários)\5. Sistema de Cursos\bin\Debug\net9.0\5. Sistema de Cursos.pdb
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Dia 28.10 (Vários)\5. Sistema de Cursos\obj\Debug\net9.0\5. Sistema de Cursos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Dia 28.10 (Vários)\5. Sistema de Cursos\obj\Debug\net9.0\5. Sistema de Cursos.AssemblyInfoInputs.cache
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Dia 28.10 (Vários)\5. Sistema de Cursos\obj\Debug\net9.0\5. Sistema de Cursos.AssemblyInfo.cs
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Dia 28.10 (Vários)\5. Sistema de Cursos\obj\Debug\net9.0\5. Sistema de Cursos.csproj.CoreCompileInputs.cache
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Dia 28.10 (Vários)\5. Sistema de Cursos\obj\Debug\net9.0\5. Sistema de Cursos.dll
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Dia 28.10 (Vários)\5. Sistema de Cursos\obj\Debug\net9.0\refint\5. Sistema de Cursos.dll
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Dia 28.10 (Vários)\5. Sistema de Cursos\obj\Debug\net9.0\5. Sistema de Cursos.pdb
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Dia 28.10 (Vários)\5. Sistema de Cursos\obj\Debug\net9.0\5. Sistema de Cursos.genruntimeconfig.cache
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Dia 28.10 (Vários)\5. Sistema de Cursos\obj\Debug\net9.0\ref\5. Sistema de Cursos.dll
