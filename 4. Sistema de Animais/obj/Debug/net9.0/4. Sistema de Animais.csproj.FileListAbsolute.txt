@@ -1,0 +1,14 @@
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Dia 28.10 (Vários)\4. Sistema de Animais\bin\Debug\net9.0\4. Sistema de Animais.exe
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Dia 28.10 (Vários)\4. Sistema de Animais\bin\Debug\net9.0\4. Sistema de Animais.deps.json
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Dia 28.10 (Vários)\4. Sistema de Animais\bin\Debug\net9.0\4. Sistema de Animais.runtimeconfig.json
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Dia 28.10 (Vários)\4. Sistema de Animais\bin\Debug\net9.0\4. Sistema de Animais.dll
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Dia 28.10 (Vários)\4. Sistema de Animais\bin\Debug\net9.0\4. Sistema de Animais.pdb
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Dia 28.10 (Vários)\4. Sistema de Animais\obj\Debug\net9.0\4. Sistema de Animais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Dia 28.10 (Vários)\4. Sistema de Animais\obj\Debug\net9.0\4. Sistema de Animais.AssemblyInfoInputs.cache
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Dia 28.10 (Vários)\4. Sistema de Animais\obj\Debug\net9.0\4. Sistema de Animais.AssemblyInfo.cs
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Dia 28.10 (Vários)\4. Sistema de Animais\obj\Debug\net9.0\4. Sistema de Animais.csproj.CoreCompileInputs.cache
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Dia 28.10 (Vários)\4. Sistema de Animais\obj\Debug\net9.0\4. Sistema de Animais.dll
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Dia 28.10 (Vários)\4. Sistema de Animais\obj\Debug\net9.0\refint\4. Sistema de Animais.dll
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Dia 28.10 (Vários)\4. Sistema de Animais\obj\Debug\net9.0\4. Sistema de Animais.pdb
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Dia 28.10 (Vários)\4. Sistema de Animais\obj\Debug\net9.0\4. Sistema de Animais.genruntimeconfig.cache
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Dia 28.10 (Vários)\4. Sistema de Animais\obj\Debug\net9.0\ref\4. Sistema de Animais.dll
