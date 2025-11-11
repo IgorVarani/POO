@@ -1,0 +1,14 @@
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Dia 28.10 (Vários)\3. Sistema de PdJ\bin\Debug\net9.0\3. Sistema de PdJ.exe
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Dia 28.10 (Vários)\3. Sistema de PdJ\bin\Debug\net9.0\3. Sistema de PdJ.deps.json
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Dia 28.10 (Vários)\3. Sistema de PdJ\bin\Debug\net9.0\3. Sistema de PdJ.runtimeconfig.json
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Dia 28.10 (Vários)\3. Sistema de PdJ\bin\Debug\net9.0\3. Sistema de PdJ.dll
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Dia 28.10 (Vários)\3. Sistema de PdJ\bin\Debug\net9.0\3. Sistema de PdJ.pdb
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Dia 28.10 (Vários)\3. Sistema de PdJ\obj\Debug\net9.0\3. Sistema de PdJ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Dia 28.10 (Vários)\3. Sistema de PdJ\obj\Debug\net9.0\3. Sistema de PdJ.AssemblyInfoInputs.cache
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Dia 28.10 (Vários)\3. Sistema de PdJ\obj\Debug\net9.0\3. Sistema de PdJ.AssemblyInfo.cs
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Dia 28.10 (Vários)\3. Sistema de PdJ\obj\Debug\net9.0\3. Sistema de PdJ.csproj.CoreCompileInputs.cache
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Dia 28.10 (Vários)\3. Sistema de PdJ\obj\Debug\net9.0\3. Sistema de PdJ.dll
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Dia 28.10 (Vários)\3. Sistema de PdJ\obj\Debug\net9.0\refint\3. Sistema de PdJ.dll
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Dia 28.10 (Vários)\3. Sistema de PdJ\obj\Debug\net9.0\3. Sistema de PdJ.pdb
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Dia 28.10 (Vários)\3. Sistema de PdJ\obj\Debug\net9.0\3. Sistema de PdJ.genruntimeconfig.cache
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Dia 28.10 (Vários)\3. Sistema de PdJ\obj\Debug\net9.0\ref\3. Sistema de PdJ.dll
