@@ -1,0 +1,14 @@
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Sistema de Transporte\obj\Debug\net9.0\Atividade - Sistema de Transporte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Sistema de Transporte\obj\Debug\net9.0\Atividade - Sistema de Transporte.AssemblyInfoInputs.cache
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Sistema de Transporte\obj\Debug\net9.0\Atividade - Sistema de Transporte.AssemblyInfo.cs
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Sistema de Transporte\obj\Debug\net9.0\Atividade - Sistema de Transporte.csproj.CoreCompileInputs.cache
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Sistema de Transporte\bin\Debug\net9.0\Atividade - Sistema de Transporte.exe
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Sistema de Transporte\bin\Debug\net9.0\Atividade - Sistema de Transporte.deps.json
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Sistema de Transporte\bin\Debug\net9.0\Atividade - Sistema de Transporte.runtimeconfig.json
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Sistema de Transporte\bin\Debug\net9.0\Atividade - Sistema de Transporte.dll
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Sistema de Transporte\bin\Debug\net9.0\Atividade - Sistema de Transporte.pdb
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Sistema de Transporte\obj\Debug\net9.0\Atividade - Sistema de Transporte.dll
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Sistema de Transporte\obj\Debug\net9.0\refint\Atividade - Sistema de Transporte.dll
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Sistema de Transporte\obj\Debug\net9.0\Atividade - Sistema de Transporte.pdb
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Sistema de Transporte\obj\Debug\net9.0\Atividade - Sistema de Transporte.genruntimeconfig.cache
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Sistema de Transporte\obj\Debug\net9.0\ref\Atividade - Sistema de Transporte.dll
