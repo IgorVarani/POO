@@ -1,0 +1,14 @@
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Sistema de Gestão\bin\Debug\net9.0\Atividade - Sistema de Gestão.exe
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Sistema de Gestão\bin\Debug\net9.0\Atividade - Sistema de Gestão.deps.json
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Sistema de Gestão\bin\Debug\net9.0\Atividade - Sistema de Gestão.runtimeconfig.json
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Sistema de Gestão\bin\Debug\net9.0\Atividade - Sistema de Gestão.dll
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Sistema de Gestão\bin\Debug\net9.0\Atividade - Sistema de Gestão.pdb
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Sistema de Gestão\obj\Debug\net9.0\Atividade - Sistema de Gestão.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Sistema de Gestão\obj\Debug\net9.0\Atividade - Sistema de Gestão.AssemblyInfoInputs.cache
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Sistema de Gestão\obj\Debug\net9.0\Atividade - Sistema de Gestão.AssemblyInfo.cs
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Sistema de Gestão\obj\Debug\net9.0\Atividade - Sistema de Gestão.csproj.CoreCompileInputs.cache
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Sistema de Gestão\obj\Debug\net9.0\Atividade - Sistema de Gestão.dll
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Sistema de Gestão\obj\Debug\net9.0\refint\Atividade - Sistema de Gestão.dll
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Sistema de Gestão\obj\Debug\net9.0\Atividade - Sistema de Gestão.pdb
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Sistema de Gestão\obj\Debug\net9.0\Atividade - Sistema de Gestão.genruntimeconfig.cache
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Sistema de Gestão\obj\Debug\net9.0\ref\Atividade - Sistema de Gestão.dll
