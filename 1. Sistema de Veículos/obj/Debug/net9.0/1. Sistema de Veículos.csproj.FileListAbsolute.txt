@@ -1,0 +1,14 @@
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Dia 28.10 (Vários)\1. Sistema de Veículos\obj\Debug\net9.0\1. Sistema de Veículos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Dia 28.10 (Vários)\1. Sistema de Veículos\obj\Debug\net9.0\1. Sistema de Veículos.AssemblyInfoInputs.cache
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Dia 28.10 (Vários)\1. Sistema de Veículos\obj\Debug\net9.0\1. Sistema de Veículos.AssemblyInfo.cs
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Dia 28.10 (Vários)\1. Sistema de Veículos\obj\Debug\net9.0\1. Sistema de Veículos.csproj.CoreCompileInputs.cache
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Dia 28.10 (Vários)\1. Sistema de Veículos\bin\Debug\net9.0\1. Sistema de Veículos.exe
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Dia 28.10 (Vários)\1. Sistema de Veículos\bin\Debug\net9.0\1. Sistema de Veículos.deps.json
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Dia 28.10 (Vários)\1. Sistema de Veículos\bin\Debug\net9.0\1. Sistema de Veículos.runtimeconfig.json
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Dia 28.10 (Vários)\1. Sistema de Veículos\bin\Debug\net9.0\1. Sistema de Veículos.dll
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Dia 28.10 (Vários)\1. Sistema de Veículos\bin\Debug\net9.0\1. Sistema de Veículos.pdb
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Dia 28.10 (Vários)\1. Sistema de Veículos\obj\Debug\net9.0\1. Sistema de Veículos.dll
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Dia 28.10 (Vários)\1. Sistema de Veículos\obj\Debug\net9.0\refint\1. Sistema de Veículos.dll
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Dia 28.10 (Vários)\1. Sistema de Veículos\obj\Debug\net9.0\1. Sistema de Veículos.pdb
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Dia 28.10 (Vários)\1. Sistema de Veículos\obj\Debug\net9.0\1. Sistema de Veículos.genruntimeconfig.cache
+C:\Users\43698404818\Downloads\It's Going Down Now\Atividades & Exercícios\Atividade - POO\Atividade - Dia 28.10 (Vários)\1. Sistema de Veículos\obj\Debug\net9.0\ref\1. Sistema de Veículos.dll
